@@ -1155,3 +1155,25 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.07-06.01.36:769][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 221 ms)
 [2023.07.07-06.01.36:772][117]AssetCheck: New page: Asset Save: Lvl1
 [2023.07.07-06.01.36:772][117]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl1.Lvl1
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: ================================================
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: Total job queries 113, among them cache hits 2 (1.77%)
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: Tracking 111 distinct input hashes that result in 93 distinct outputs (83.78%)
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: RAM used: 0.92 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.06%
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.07.07-06.02.04:502][337]LogShaderCompilers: Display: ================================================
+[2023.07.07-06.02.06:299][512]LogViewport: Scene viewport resized to 601x411, mode Windowed.
+[2023.07.07-06.02.09:934][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.07.07-06.02.11:047][820]LogSlate: Window 'Save Content' being destroyed
+[2023.07.07-06.02.11:147][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-06.02.11:178][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lvl1" FILE="E:/Unreal/2d/TwoDSideScroller/Content/Levels/Lvl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-06.02.11:184][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.07.07-06.02.11:190][820]LogSavePackage: Moving output files for package: /Game/Levels/Lvl1
+[2023.07.07-06.02.11:191][820]LogSavePackage: Moving 'E:/Unreal/2d/TwoDSideScroller/Saved/Lvl1F5E6CB4847F96722EAB2E09C3CD90DF0.tmp' to 'E:/Unreal/2d/TwoDSideScroller/Content/Levels/Lvl1.umap'
+[2023.07.07-06.02.11:198][820]LogFileHelpers: Saving map 'Lvl1' took 0.020
+[2023.07.07-06.02.11:211][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 286 ms)
+[2023.07.07-06.02.11:214][820]AssetCheck: New page: Asset Save: Lvl1
+[2023.07.07-06.02.11:214][820]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl1.Lvl1
