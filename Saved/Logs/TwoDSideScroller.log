@@ -1131,3 +1131,27 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.07-05.58.24:840][838]AssetCheck: New page: Asset Save: Lvl1
 [2023.07.07-05.58.24:840][838]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl1.Lvl1
 [2023.07.07-05.59.30:698][216]LogDerivedDataCache: C:/Users/overl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.107 and deleted 0 files with total size 0 MiB. Scanned 2552 files in 2531 folders with total size 155 MiB.
+[2023.07.07-06.01.14:623][531]LogViewport: Scene viewport resized to 601x411, mode Windowed.
+[2023.07.07-06.01.16:804][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.07.07-06.01.18:168][668]LogSlate: Window 'Save Content' being destroyed
+[2023.07.07-06.01.18:269][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-06.01.18:294][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lvl1" FILE="E:/Unreal/2d/TwoDSideScroller/Content/Levels/Lvl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-06.01.18:298][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.07.07-06.01.18:306][668]LogSavePackage: Moving output files for package: /Game/Levels/Lvl1
+[2023.07.07-06.01.18:307][668]LogSavePackage: Moving 'E:/Unreal/2d/TwoDSideScroller/Saved/Lvl11C56C3434317913BC875D8A6275CBC55.tmp' to 'E:/Unreal/2d/TwoDSideScroller/Content/Levels/Lvl1.umap'
+[2023.07.07-06.01.18:314][668]LogFileHelpers: Saving map 'Lvl1' took 0.020
+[2023.07.07-06.01.18:328][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 162 ms)
+[2023.07.07-06.01.18:332][668]AssetCheck: New page: Asset Save: Lvl1
+[2023.07.07-06.01.18:332][668]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl1.Lvl1
+[2023.07.07-06.01.31:608][877]LogViewport: Scene viewport resized to 601x411, mode Windowed.
+[2023.07.07-06.01.35:303][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.07.07-06.01.36:605][117]LogSlate: Window 'Save Content' being destroyed
+[2023.07.07-06.01.36:709][117]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.07-06.01.36:735][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Lvl1" FILE="E:/Unreal/2d/TwoDSideScroller/Content/Levels/Lvl1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.07.07-06.01.36:741][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.07.07-06.01.36:747][117]LogSavePackage: Moving output files for package: /Game/Levels/Lvl1
+[2023.07.07-06.01.36:748][117]LogSavePackage: Moving 'E:/Unreal/2d/TwoDSideScroller/Saved/Lvl17862410C436EE6AEBD04D9B9FF4306A5.tmp' to 'E:/Unreal/2d/TwoDSideScroller/Content/Levels/Lvl1.umap'
+[2023.07.07-06.01.36:754][117]LogFileHelpers: Saving map 'Lvl1' took 0.020
+[2023.07.07-06.01.36:769][117]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 221 ms)
+[2023.07.07-06.01.36:772][117]AssetCheck: New page: Asset Save: Lvl1
+[2023.07.07-06.01.36:772][117]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Lvl1.Lvl1
